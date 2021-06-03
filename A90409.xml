@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A farewell sermon preached by Mr. William Penn, on Sunday last, being the 13th instant, at the Quakers meeting-house at Westminster.</title>
+            <author>Penn, William, 1644-1718.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90409</idno><idno type="EEBO-CITATION">38875656</idno>
+  <idno type="VID">152332</idno>
+  <idno type="EEBO-PROQUEST">2240875035</idno>
+  
+            <idno type="STC">Wing P1290</idno>
+            <idno type="STC">ESTC R42726</idno>
+            <idno type="OCLC">38875656</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152332)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2293:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A farewell sermon preached by Mr. William Penn, on Sunday last, being the 13th instant, at the Quakers meeting-house at Westminster.</title>
+                  <author>Penn, William, 1644-1718.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.B. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At head of title in ms.: August 1699.</note>
+                  <note>Wing (2nd ed.) suggests publication date: 1699.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+               <term type="topical_term">Society of Friends --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:152332:1"/>
+            <head>A Farewell SERMON, PREACHED BY M<seg rend="sup">R.</seg>
+               <hi>William Penn:</hi> On <hi>Sunday</hi> last, being the 13th instant, at the <hi>QUAKERS MEETING-HOUSE</hi> at <hi>Westminster.</hi>
+            </head>
+            <epigraph>
+               <q>Beloved: <hi>Take heed that ye observe good Councel, and let not the Light depart from ye:</hi> Yea, <hi>Let the Wonderful Counsellor▪ be your Guide.</hi>
+               </q>
+            </epigraph>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed According to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>IT was the blessed Encouragement that our Lord Jesus Christ gave to his Disciples, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll his Followers (when he took on him the Nature of Man, and was made Flesh, and dwelt <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mongst us) and therein to all the Sons and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aughters of Men, who should follow him <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hro▪ <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e many and great Tribulations, and give up <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eir Names and Hearts to him, to be Witnes<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his Truth, and of that Holy Testimony▪
+<pb n="2" facs="tcp:152332:2"/> which he should communicate to them near his <hi>Farewel,</hi> and a little before his being offered up, <hi>Let not your Hearts be troubled; ye believe in God, believe also in me: In my Fathers House are many Mansions; if it were not so, I would have told you; I go to prepare a place for you, and I will come again and receive you unto my self, that where I am, there you may be also:</hi> Now my <hi>Friends▪</hi> These Mansions they are the Recompences o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reward that are set in the View of the Righ<g ref="char:EOLhyphen"/>teous, and promised of God by Christ Jesus▪ These many <hi>Mansions</hi> are the manifold Re<g ref="char:EOLhyphen"/>wards, Diversities of Rewards, that refer to the Diversity of States, and Conditions, and Per<g ref="char:EOLhyphen"/>sons, unto whom these many Mansions do be<g ref="char:EOLunhyphen"/>long. As all are not of the same stature an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> growth, neither are all these Mansions of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> same degree of Glory and Felicity. There i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one Glory of the Sun; another Glory of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Moon, another Glory of the Stars; for one Sta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> differs from another Star in Glory; yet all thes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Stars shine with a Lustre and Glory, and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> least Star hath a Beauty and Excellency in it and so the least of these many Mansions hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a marvellous Light and Glory in it. This refe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:152332:2"/> to the state of every Man and Woman here be<g ref="char:EOLhyphen"/>low. All Members are not the Hand, all are not the Head, but every Member of the Body hath its Service, and will have its Reward. This is that which did Spring in my Soul this Mor<g ref="char:EOLhyphen"/>ning, as I sat here among you. O that all here present may become the living members of Christ Jesus our Blessed Head, and live the Life they live in the Body, by the Faith of the Son of God.—He that made us, knows our Frame; He that created us, and formed and fashioned us after his own Image, and gave us Powers and Faculties to glorifie and serve him, that we may come to enjoy him for ever, he re<g ref="char:EOLhyphen"/>quires of no man or Woman more than he hath given them Power and Ability to perform. It concerneth us all therefore to live in the Exercise of that Divine Gift, and Grace, and Ability, which our Lord Jesus Christ hath Di<g ref="char:EOLhyphen"/>stributed and Communicated to every mem<g ref="char:EOLhyphen"/>ber of his Body, that we may come to shine as <hi>Stars</hi> in the Firmament of Glory.—We should do good in several Places and Stations, accor<g ref="char:EOLhyphen"/>ding to our different Powers and Capacities. And as every member is by the Circulation of
+<pb facs="tcp:152332:3"/> Blood made useful and beneficial in the Na<g ref="char:EOLhyphen"/>tural Body, so the <hi>Divine Life and Blood of the Son of God Circulates through his whole Mystical Body,</hi> and reaches Life to every living member. Here is no Obstruction through Unfaithful<g ref="char:EOLhyphen"/>ness, or Inordinate love of the World, or any Temptation from without us, or Corruption from within us. Here is a free Channel, here is an open Passage for Life and quickening In<g ref="char:EOLhyphen"/>fluences from Christ our Glorious <hi>Head,</hi> to all his members. There is in Christ (in whom the Fulness of the Godhead dwells bodily) A Ri<g ref="char:EOLhyphen"/>ver, whose Streams make glad the <hi>City of God:</hi> A <hi>Fountain</hi> to Supply and Refresh the whole Generation of the Righteous, that desire to be found in him (as the Apostles speaks) not ha<g ref="char:EOLhyphen"/>ving their own Righteousness, but Cloathed with the <hi>Robe</hi> of his Righteousness, which is the <hi>Garment</hi> of <hi>Salvation.</hi> Therefore Wait this Day, <hi>My Dear Friends,</hi> to have your hearts filled with the <hi>Love</hi> and <hi>Life</hi> of the Son of God, that you may appear with Joy at his <hi>Tribunal,</hi> mankind must appear, and every one give an Account of what he hath done in the body, whether it be good or evil. Let every one of
+<pb n="5" facs="tcp:152332:3"/> you be careful to Live according to what you know, and improve the <hi>Tallents</hi> that God hath given you, and you shall find that in keeping his Commandments, there is a great Reward, and that God is good to <hi>Israel,</hi> to them that are of a Clean Heart. Had not the Lord been on our side, may <hi>Israel</hi> say; Had not the Lord been on our side when Men rose up against us, may we say, they had swallowed us up, and the Temptatious of the Devil would have prevail<g ref="char:EOLhyphen"/>ed over us, and we had fallen long ago; It is not we that have stood firm in times of tryal and trouble, but it is the Lord that hath stood by us, and made us to stand: And the love of God to his People now, is as great as ever it was: <hi>His Arm is not shortned that it cannot save, nor his Ear heavy that it cannot hear;</hi> Therefore Travel on and Faint not, and you shall come with Joy to the end of your <hi>Journey,</hi> and you shall be sa<g ref="char:EOLhyphen"/>tisfied with the <hi>Fatness</hi> of God's <hi>House,</hi> and say with the Psalmist, <hi>Blessed are they that dwell in thy House, they shall be still praising thee.</hi> It is the Faithful and sincere that shall dwell in the House of the Lord for ever, and enter into his everlasting Kingdom. O My Friends, Live as
+<pb n="6" facs="tcp:152332:4"/> a People bowed down in the presence of the Great and Holy God, and walk humbly with him; Be humbled under his mghty Hand, and you shall be exalted in due time.</p>
+            <p>The God of Heaven hath Visited your Souls with his Divine Power and Grace, and given you a refreshing Sense of his Love, that you may perceive and feel a Daily Renewing of your Strength. O Wait upon the Lord for his Divine Power to enable you to Conquer the Power of Satan, that you may go on Conquer<g ref="char:EOLhyphen"/>ing and to Conquer, till you come to the New <hi>Jerusalem,</hi> the <hi>City</hi> of God and Land of Peace and Rest. Beware of <hi>Idolatry!</hi> Bow not down to the Work of your own hands: For tho' you may not be Guilty of <hi>Gross Idolatry,</hi> yet there is a secret, and more hidden <hi>Idolatry,</hi> that too many are Guilty of. Who set their Hearts and Affections on low and Earthly things: This sticks but too near to many. Let the Word of Exhortation of the Apostle enter into your Hearts; Little Children keep your Selves from <hi>Idols.</hi> Let this be the Cry of your <hi>Souls,</hi> Lord Preserve and keep me this Day, every Day and to the end of my Days, that I may be not only
+<pb n="7" facs="tcp:152332:4"/> Convinced of the Truth, but really Converted to it, and Walk in the Truth, and Persevere therein to the end, that I may be saved. Re<g ref="char:EOLhyphen"/>member <hi>Lots Wife;</hi> Look not back to <hi>Sodom:</hi> Walk in Light as Children of Light, with your Faces <hi>Sion</hi>-ward; and Rejoyce in hope of Glo<g ref="char:EOLhyphen"/>ry of God. Ye were some time in Darkness, but now (saith the Apostle) Ye are Light in the Lord. O Shine as <hi>Stars</hi> in the midst of a Crooked Perverse Generation. Shine in the <hi>Beauties</hi> of Holiness, and Walk in the Light of Christ, the Sun of Righteousness, who was gi<g ref="char:EOLhyphen"/>ven for a light to lighten the Gentiles▪ and to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Glory of h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> P<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> He shall be th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Desire of all Nations; the mighty Saviour up<g ref="char:EOLhyphen"/>on whom God hath laid Help. Believe in him, cleave to him, and follow him, and you shall be Saved, both from your Sins, and from the wrath to come. <hi>God is Light</hi> (saith the Apostle <hi>John) in him is no Darkness at all; If we Walk in the Light as he is in the Light, then we shall have Fel<g ref="char:EOLhyphen"/>lowship one with another, and the Blood of Jesus Ch<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>st his Son Cleanseth us from all Sin;</hi> We know him to be the true <hi>Rock</hi> and Foundation of Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hich standeth Sure, and which will
+<pb n="8" facs="tcp:152332:5"/> stand Sure, in Stormy and Tempestuous Times: Blessed are they that Build upon this Founda<g ref="char:EOLhyphen"/>tion which God hath laid.</p>
+            <p>Blessed be God, who hath opened your Eyes, and given you to see this sure Foundation, which we must build all our Hopes of Salvation upon; And not upon any other Foundation whatsoever.</p>
+            <p>We that are made Living Witnesses of the Pow<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and Wisdom, and Goodness of God, let us sink down into Self-Abasement and Humility, and we shall feel the Living O<g ref="char:EOLhyphen"/>penings of the Spirit of Truth in our Hearts, and receive with Meekness that ingrafted Word, in which is Light and Life, that is able to save our Souls; and submit to the Au<g ref="char:EOLhyphen"/>thority of God therein; That the Word of Christ may dwe<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Richly in us, and become the Power of God to our Salvation.</p>
+            <p>
+               <hi>Now the God of <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> again from the Dea<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Lord Jesus Christ, the Great Shepherd of Sheep, throug<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Blood of the Everlasting Covenant, make you perfect i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> every good Work, to do his Will; Working in you that which i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> well pleasing in his Sight, to whom be Glory, Praise, and Thank<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>giving, who alone is Worthy, who is God over all, Blessed fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ever and ever.</hi>
+            </p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>A. B.</hi> near <hi>Chancery-Lane.</hi> 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
